@@ -2,7 +2,7 @@ Link to PowerPoint Presentation:
 
 <a href="https://docs.google.com/presentation/d/1DsUauIwIGu0gwG0U3uTcGyBi1iW1_dQFDqjJTgGixDA/edit?usp=sharing">Google Play Store Analysis Presentation</a>
 
-###Our Scenario:
+<h2>Our Scenario:</h2>
 
 I was hired as a consultant by a small startup game production company that has a limited budget to spend on their first Android mobile game. To maximize the return on their investment, they want to know what type of game to develop, and how much they should charge to maximize profit (via paid downloads).
 
