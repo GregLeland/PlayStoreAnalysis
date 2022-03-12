@@ -63,4 +63,4 @@ Because the Google Play Store gives an approximate number of downloads (in 5k, 1
 
 <h2>Conclusion:</h2>
 
-Based on the available information, if the mobile gaming company develops their first game in the ‘Action’ or ‘Arcade’ categories at a price point of $2.99 or $4.99,  they are likely to have a better chance of maximizing their ROI. Also, based on the available data and the strong correlation of reviews to revenue, it would benefit them to encourange users to review the game.
+<strong>Based on the available information, if the mobile gaming company develops their first game in the ‘Action’ or ‘Arcade’ categories at a price point of $2.99 or $4.99,  they are likely to have a better chance of maximizing their ROI. Also, based on the available data and the strong correlation of reviews to revenue, it would benefit them to encourange users to review the game.</strong>
